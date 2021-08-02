@@ -1,3 +1,5 @@
+#app/controllers/authors_controller.rb
+
 class AuthorsController < ApplicationController
 
   def show
